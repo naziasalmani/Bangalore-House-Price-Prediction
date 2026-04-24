@@ -89,8 +89,10 @@ http://localhost:8000
 
 👉 [House Price Predictor](https://eclectic-wisp-73c5ef.netlify.app)
 
-## 🙌 Author
+🔗 https://eclectic-wisp-73c5ef.netlify.app
 
+
+## 🙌 Author
 Nazia Salmani
 
 
