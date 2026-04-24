@@ -7,6 +7,9 @@ CORS(app)
 
 util.load_saved_artifacts()
 
+@app.route('/')
+def home():
+    return "Bangalore House Price Prediction API is running 🚀"
 
 @app.route('/get_location_names', methods=['GET'])
 def get_location_names():
