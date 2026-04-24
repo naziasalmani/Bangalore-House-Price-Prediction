@@ -78,7 +78,6 @@ http://localhost:8000
 * Model trained using **Linear Regression**
 * Image processing using OpenCV and Wavelet Transform
 
-
 ## 🎯 Future Improvements
 
 * Improve model accuracy
@@ -86,6 +85,9 @@ http://localhost:8000
 * Deploy the project online
 * Enhance UI/UX
 
+## 🌐 Live Project
+
+👉 [House Price Predictor](https://eclectic-wisp-73c5ef.netlify.app)
 
 ## 🙌 Author
 
