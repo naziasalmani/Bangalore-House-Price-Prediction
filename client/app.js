@@ -71,7 +71,7 @@ function onClickedEstimatePrice() {
 
   setLoading(true);
 
-  $.post('http://127.0.0.1:5000/predict_home_price', {
+  $.post('https://bangalore-house-price-prediction-eu2f.onrender.com/predict_home_price', {
     total_sqft: sqft, bhk, bath, location
   }, function(data) {
     setLoading(false);
